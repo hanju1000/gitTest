@@ -9,7 +9,7 @@
 	div{
 		padding: 0;
 		color: yellow;
-		
+		margin: 0;
 	}
 </style>
 </head>
